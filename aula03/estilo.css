@@ -1,0 +1,7 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nRomano{
+    list-style-type: lower-roman;
+}
+/* o list style type é a propriedade que formata o tipo do marcador de lista */ 

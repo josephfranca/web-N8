@@ -1,0 +1,114 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+background-color: bisque;
+margin: 0px;
+}
+
+#topo{
+    height: 500px;
+    background-color: cadetblue;
+    padding: 1px;
+}
+#itemtopo{
+    width: 1366px;
+    height: 180px;
+    margin: auto;
+    margin-top: 50px;
+}
+#logo{
+    width: 300px;
+    height: 180px;
+    background-color: #00ffff;
+    float: left;
+}
+#menu{
+    width: 1056px;
+    height: 180px;
+    background-color: #00ffff;
+    float: right;
+}
+.itemmenu{
+    width: 200px;
+    height: 75px;
+    background-color: gray;
+    border-radius: 0px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 53px;
+    transition: 2s;
+}
+.itemmenu:hover{
+    background-color: red;
+    border-radius: 30px;
+}
+.redesocial{
+    width: 75px;
+    height: 75px;
+    background-color: gray;
+    float: right;
+    margin-right: 10px;
+    margin-top: 53px;
+}
+#banner{
+    width: 1366px;
+    height: 200px;
+    background-color: gray;
+    margin: auto;
+    margin-top: 10px;
+}
+.itemconteudo{
+    width: 1366px;
+    height: 300px;
+    background-color: blue;
+    margin: auto;
+    margin-top: 10px;
+}
+.textoconteudo{
+    width: 846px;
+    height: 300px;
+    background-color: gray;
+    float: left;
+    margin: 10px;
+}
+.imagemconteudo{
+    width: 500px;
+    height: 300px;
+    float: left;
+    background-color: gray;
+}
+#mapa{
+    margin-top: 10px;
+    height: 400px;
+    background-color: aqua;
+}
+#rodape{
+    margin-top: 10px;
+    height: 150px;
+    background-color: aquamarine;
+    padding: 1px;
+}
+#itemrodape{
+    width: 1366px;
+    height: 75px;
+    margin: auto;
+    margin-top: 38px;
+}
+.endereco{
+    width: 1186px;
+    height: 75px;
+    float: left;
+    background-color: darkgray;
+    margin-right: 10px;
+}
+.redesocialR{
+    width: 75px;
+    height: 75px;
+    background-color: gray;
+    float: right;
+    margin-right: 10px;
+}
+.borda75{
+    border-radius: 75px;
+}

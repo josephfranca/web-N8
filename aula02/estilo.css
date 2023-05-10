@@ -1,0 +1,41 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+/* o asterisco (*) é o seletor universal, esse seletor representa todos os elementos serão afetados pelas definições de estilo, é tipo uma função de regra para todo o css da pagina */
+
+body{
+    background-color: black;
+    color: #FFFFFF;
+    background-image:url('img/cac1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50px 100px;
+    margin-left: 350px;
+}
+/* o bloco acima refere-se ao estilo do corpo do site */
+
+h2{
+    text-align: center;
+}
+
+/* o pequeno bloco acima refere-se o alinhamento de todos os textos provenientes da tag: H */ 
+
+.notas {
+    text-align: right;
+}
+/* o ponto (.) serve para criar classes, que serão usadas mais tarde nas tag do html */
+
+p{
+    text-align: justify;
+}
+.alturaimg{height: 200px;}
+
+.larguraimg {
+    width: 500px;
+}
+
+.margemimg{ 
+    margin: 15px;
+}
+
+.textocentro{
+    text-align: center;
+}
